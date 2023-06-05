@@ -16,27 +16,27 @@ https://dl.acm.org/doi/10.1145/3295500.3356140 hyperx vs fat tree at scale
 # Optical
 
 
-#networking
+# networking
 route packets not wires - https://liacs.leidenuniv.nl/~stefanovtp/courses/StudentenSeminarium/Papers/DT/RPNW.pdf
 
 
-#LLM
+# LLM
 https://arxiv.org/pdf/2305.10601.pdf tree of thought
 
 https://arxiv.org/abs/2302.04761 toolformer
 
-#Training
+# Training
 https://arxiv.org/pdf/2201.05596.pdf advancing MOE inference
 https://arxiv.org/pdf/2211.15841.pdf megablocks advancing moe experts
 https://arxiv.org/abs/2303.11366 Reflexion paper
 
-#AI generic
+# AI generic
 
 https://arxiv.org/pdf/2006.16668.pdf gshard all to all moe
 https://arxiv.org/abs/2101.03961 switch transformers
 
 
-#neuro science
+# neuro science
 
 https://royalsocietypublishing.org/doi/pdf/10.1098/rstb.2019.0319
 https://www.researchgate.net/publication/312058510_Network_Analyses_and_Nervous_System_Disorders interesting relating to network mapping on brain
