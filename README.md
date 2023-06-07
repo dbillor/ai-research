@@ -34,7 +34,7 @@ research papers regarding AI.
 * https://arxiv.org/abs/2101.03961 switch transformers
 
 
-# neuro science
+# neuroscience
 
 * https://royalsocietypublishing.org/doi/pdf/10.1098/rstb.2019.0319
 * https://www.researchgate.net/publication/312058510_Network_Analyses_and_Nervous_System_Disorders interesting relating to network mapping on brain
