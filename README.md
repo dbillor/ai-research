@@ -11,9 +11,10 @@ research papers regarding AI.
 * https://arxiv.org/pdf/2209.01346.pdf hamming mesh
 * https://my.eng.utah.edu/~cs6810/HyperX-SC09.pdf hyperx topology
 * https://dl.acm.org/doi/10.1145/3295500.3356140 hyperx vs fat tree at scale
+  
 
 # Optical
-
+https://arxiv.org/pdf/2202.03356.pdf
 
 # networking
 * route packets not wires - https://liacs.leidenuniv.nl/~stefanovtp/courses/StudentenSeminarium/Papers/DT/RPNW.pdf
