@@ -14,7 +14,7 @@ research papers regarding AI.
   
 
 # Optical
-https://arxiv.org/pdf/2202.03356.pdf
+https://arxiv.org/pdf/2202.03356.pdf direct connect topologies
 
 # networking
 * route packets not wires - https://liacs.leidenuniv.nl/~stefanovtp/courses/StudentenSeminarium/Papers/DT/RPNW.pdf
