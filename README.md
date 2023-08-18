@@ -11,10 +11,15 @@ research papers regarding AI.
 * https://arxiv.org/pdf/2209.01346.pdf hamming mesh
 * https://my.eng.utah.edu/~cs6810/HyperX-SC09.pdf hyperx topology
 * https://dl.acm.org/doi/10.1145/3295500.3356140 hyperx vs fat tree at scale
+* https://arxiv.org/pdf/2307.12169.pdf rail optimized network
+
+
   
 
 # Optical
-https://arxiv.org/pdf/2202.03356.pdf direct connect topologies
+* https://arxiv.org/pdf/2202.03356.pdf direct connect topologies
+* https://www.nature.com/articles/s41566-023-01244-7
+* https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10124987
 
 # networking
 * route packets not wires - https://liacs.leidenuniv.nl/~stefanovtp/courses/StudentenSeminarium/Papers/DT/RPNW.pdf
@@ -28,6 +33,7 @@ https://arxiv.org/pdf/2202.03356.pdf direct connect topologies
 * https://arxiv.org/pdf/2201.05596.pdf advancing MOE inference
 * https://arxiv.org/pdf/2211.15841.pdf megablocks advancing moe experts
 * https://arxiv.org/abs/2303.11366 Reflexion paper
+* https://arxiv.org/pdf/2308.00852.pdf
 
 # AI generic
 
