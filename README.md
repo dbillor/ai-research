@@ -28,6 +28,7 @@ research papers regarding AI.
 * [megablocks advancing moe experts](https://arxiv.org/pdf/2211.15841.pdf)
 * [Reflexion paper](https://arxiv.org/abs/2303.11366)
 * [CASSINI: Network-Aware Job Scheduling in Machine Learning Clusters](https://arxiv.org/pdf/2308.00852.pdf)
+* [Switch Transformers: Scaling to Trillion Parameter Models with Simple and Efficient Sparsity](https://arxiv.org/pdf/2101.03961.pdf)
 
 # AI generic
 * [gshard all to all moe](https://arxiv.org/pdf/2006.16668.pdf)
